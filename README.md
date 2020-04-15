@@ -6,4 +6,4 @@
 
 # Server Sera Sempre Actualizado Consuante as Actualizacoes da Framework
 
-# Adicionada mysql-async que nao estava.
+# Totalmente Actualizado
