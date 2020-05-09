@@ -2,8 +2,8 @@
 
 # Server completamente default para os que tem dificuldade em se iniciar.
 
-# Ja vem com server cfg e start bat.
+# Já vem com server cfg, start bat e uma SQL pronta a ser utilizada.
 
-# Server Sera Sempre Actualizado Consuante as Actualizacoes da Framework
+# Server será sempre atualizado consuante as atualizacoes da framework
 
-# Totalmente Actualizado!
+# Totalmente atualizado!
