@@ -4,6 +4,6 @@
 
 # Ja vem com server cfg e start bat.
 
-# Server Sera Sempre Actualizado Consuante as Actualizacoes da Framework
+# Server será sempre atualizado consuante as atualizacoes da framework
 
 # Totalmente Actualizado!
